@@ -1,5 +1,5 @@
-Here you can say lots of fun things about your site.
+In this blog I will try to discuss or explain what I am currently learning or working through in Information Technology.
 
-Maybe say a some things about yourself.
+This is made with the goal of being used for reference down the line if I forget something and to solidify learnings whilst studying.
 
-Or maybe what you plan to blog about.
+I also have to admit it will be interesting to see where I started some day later in life.
